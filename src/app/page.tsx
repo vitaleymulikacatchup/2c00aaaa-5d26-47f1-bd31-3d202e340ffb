@@ -38,9 +38,9 @@ const aboutProps = {
 
 const howToBuyProps = {
   steps: [
-    { title: "Step 1: Connect Wallet", description: "Link your wallet to start buying MemeNova tokens.", image: "/images/placeholder1.avif", position: "left", isCenter: false },
-    { title: "Step 2: Choose Amount", description: "Decide how many tokens you'd like to purchase.", image: "/images/placeholder2.avif", position: "right", isCenter: false },
-    { title: "Step 3: Confirm Purchase", description: "Verify your choices and complete the transaction!", image: "/images/placeholder3.avif", position: "left", isCenter: false }
+    { title: "Step 1: Connect Wallet", description: "Link your wallet to start buying MemeNova tokens.", image: "images/placeholder1.avif", position: "left", isCenter: false },
+    { title: "Step 2: Choose Amount", description: "Decide how many tokens you'd like to purchase.", image: "images/placeholder2.avif", position: "right", isCenter: false },
+    { title: "Step 3: Confirm Purchase", description: "Verify your choices and complete the transaction!", image: "images/placeholder3.avif", position: "left", isCenter: false }
   ]
 };
 
